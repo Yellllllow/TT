@@ -1,4 +1,4 @@
-FastApp
+FastApps
 ---------
 FastApp是一个轻量级急速开发框架，基于Fragment+RxJava+Retrofit 2.0+Glide+Realm构建，采用Material Design设计风格，帮助开发者快速构建轻量级应用。当然，由于本项目是为了说明博客中提到的一些问题，因此早期并未让其复杂化。另外，为了让它富有生机，给它起名为“师父说”.
 
