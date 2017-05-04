@@ -160,6 +160,7 @@ public class UpdateManager {
     private void showUpdateInfo() {
         if (mVersion == null || mContext.get() == null) {
             return;
+            //
         }
 
 
