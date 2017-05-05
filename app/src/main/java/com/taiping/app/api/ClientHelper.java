@@ -35,6 +35,7 @@ import okhttp3.logging.HttpLoggingInterceptor;
 
 public class ClientHelper {
     private static volatile long serverTime;
+    //test newbranch by zhoujiy
 
     public static long getServerTime() {
         serverTime = System.currentTimeMillis();
